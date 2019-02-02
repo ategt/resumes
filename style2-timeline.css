@@ -1,0 +1,17 @@
+.main-title {
+  box-sizing:border-box;
+  color:rgb(0, 0, 0);
+  display:inline;
+  font-family:Raleway;
+  font-size:54px;
+  font-weight:700;
+  height:auto;
+  letter-spacing:normal;
+  line-height:59.4px;
+  text-align:center;
+  text-size-adjust:100%;
+  text-transform:uppercase;
+  width:auto;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}

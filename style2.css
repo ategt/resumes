@@ -1,0 +1,204 @@
+.my-name {
+  box-sizing:border-box;
+  color:rgb(0, 0, 0);
+  display:inline;
+  font-family:Raleway;
+  font-size:54px;
+  font-weight:700;
+  height:auto;
+  letter-spacing:normal;
+  line-height:59.4px;
+  text-align:center;
+  text-size-adjust:100%;
+  text-transform:uppercase;
+  width:auto;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}
+
+.sm-info {
+  box-sizing:border-box;
+  color:rgb(67, 63, 64);
+  cursor:pointer;
+  /*display:inline;*/  
+  font-family:Raleway;
+  font-size:14px;
+  height:auto;
+  line-height:16.1px;
+  text-align:center;
+  text-size-adjust:100%;
+  width:auto;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+  padding: 6px;
+  align-content: center;
+  display: flex;
+}
+
+.sm-icon, #sm-icon {
+  width: 15px;
+  height: 15px;
+  display: -webkit-box;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(github.png);
+  background-size: contain;
+  position: absolute;
+}
+
+.sm-icon-github {
+  background-image: url(github.png);
+}
+
+.sm-icon-mail {
+  background-image: url(mail-id-icon-47236.png);
+}
+
+.sm-icon-phone {
+  background-image: url(phone-512.png);
+}
+
+.sm-info-text {
+  padding-left: 18px;
+}
+
+.underline-section {
+  background-color:rgb(67, 63, 64);
+  box-sizing:border-box;
+  color:/*rgb(255, 255, 255)*/rgb(67, 63, 64);
+  display:block;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:21px;
+  height:1px;
+  line-height:30px;
+  margin-bottom:5px;
+  text-size-adjust:100%;
+  width:172.5px;
+  -webkit-print-color-adjust:exact;
+  /*-webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+  */-webkit-tap-highlight-color: rgba(67, 63, 64, 0);
+}
+
+#black-line-background {
+  color:rgb(67, 63, 64);
+  -webkit-tap-highlight-color: rgba(67, 63, 64, 0);
+}
+
+.job-title {
+  border-collapse:collapse;
+  box-sizing:border-box;
+  color:rgb(0, 0, 0);
+  display:contents;
+  font-family:Raleway;
+  font-size:36.2px;
+  font-style:normal;
+  font-variant-caps:normal;
+  font-variant-east-asian:normal;
+  font-variant-ligatures:normal;
+  font-variant-numeric:normal;
+  font-weight:700;
+  height:39px;
+  line-height:39.82px;
+  text-align:start;
+  text-size-adjust:100%;
+  white-space:normal;
+  width:268.484px;
+  -webkit-border-horizontal-spacing:0px;
+  -webkit-border-vertical-spacing:0px;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}
+
+.employer-title {
+  padding: 5px;
+  border-collapse:collapse;
+  box-sizing:border-box;
+  color:rgb(0, 0, 0);
+  display:inline-block;
+  font-family:Raleway;
+  font-size:30.1px;
+  font-style:italic;
+  font-variant-caps:normal;
+  font-variant-east-asian:normal;
+  font-variant-ligatures:normal;
+  font-variant-numeric:normal;
+  font-weight:400;
+  height:33px;
+  line-height:33.11px;
+  text-align:start;
+  text-size-adjust:100%;
+  white-space:normal;
+  width:240.5px;
+  -webkit-border-horizontal-spacing:0px;
+  -webkit-border-vertical-spacing:0px;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}
+
+.location {
+  padding: 5px 15px;
+  border-collapse:collapse;
+  box-sizing:border-box;
+  color:rgb(0, 0, 0);
+  display:inline;
+  font-family:Raleway;
+  font-size:19.2px;
+  font-style:normal;
+  font-variant-caps:normal;
+  font-variant-east-asian:normal;
+  font-variant-ligatures:normal;
+  font-variant-numeric:normal;
+  font-weight:400;
+  height:auto;
+  /*line-height:39.82px;
+  */text-align:start;
+  text-size-adjust:100%;
+  white-space:normal;
+  width:auto;
+  -webkit-border-horizontal-spacing:0px;
+  -webkit-border-vertical-spacing:0px;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}
+
+.date-range {
+  border-collapse:collapse;
+  box-sizing:border-box;
+  color:rgb(0, 0, 0);
+  display:inline;
+  font-family:Raleway;
+  font-size:30.1px;
+  font-style:normal;
+  font-variant-caps:normal;
+  font-variant-east-asian:normal;
+  font-variant-ligatures:normal;
+  font-variant-numeric:normal;
+  font-weight:400;
+  height:auto;
+  line-height:33.11px;
+  text-align:right;
+  text-size-adjust:100%;
+  white-space:normal;
+  width:auto;
+  -webkit-border-horizontal-spacing:0px;
+  -webkit-border-vertical-spacing:0px;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+}
+
+.spacer {
+  padding: 20px;
+}
+
+.footer-space {
+  padding: 20px;
+  /*border: 1px solid black;
+*/}
+
+.container {
+  padding: 40px;
+}
+
+.grey-backgroud {
+  background-color: rgb(170, 170, 170);
+}
