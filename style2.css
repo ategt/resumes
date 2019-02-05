@@ -79,6 +79,36 @@
   */-webkit-tap-highlight-color: rgba(67, 63, 64, 0);
 }
 
+.underline-section-full {
+  background-color:rgb(67, 63, 64);
+  box-sizing:border-box;
+  color:rgb(67, 63, 64);
+  display:block;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:21px;
+  height:1px;
+  line-height:30px;
+  margin-bottom:5px;
+  text-size-adjust:100%;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color: rgba(67, 63, 64, 0);
+}
+
+.underline-section-full-heavy {
+  background-color:rgb(67, 63, 64);
+  box-sizing:border-box;
+  color:rgb(67, 63, 64);
+  display:block;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:21px;
+  height:3px;
+  line-height:30px;
+  margin-bottom:5px;
+  text-size-adjust:100%;
+  -webkit-print-color-adjust:exact;
+  -webkit-tap-highlight-color: rgba(67, 63, 64, 0);
+}
+
 #black-line-background {
   color:rgb(67, 63, 64);
   -webkit-tap-highlight-color: rgba(67, 63, 64, 0);
