@@ -232,3 +232,12 @@
 .grey-backgroud {
   background-color: rgb(170, 170, 170);
 }
+
+.name-piece {
+  background: center url(technology-792181_960_720.jpg);
+  background-blend-mode: lighten;
+  background-color: darkgray;
+  border: black solid 2px;
+  padding: 15px;
+  margin: 15px -33px;
+}
