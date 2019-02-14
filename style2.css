@@ -241,3 +241,12 @@
   padding: 15px;
   margin: 15px -33px;
 }
+
+.image-holder-1 {
+  background: center url(sample-map.jpg);
+  background-size: cover;
+  border: black solid 2px;
+  padding: 15px;
+  margin: 15px -33px;
+  height: 200px;
+}
