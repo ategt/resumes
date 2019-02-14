@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg5612"
+   version="1.1"
+   viewBox="0 0 111.54783 49.210075"
+   height="49.210075mm"
+   width="111.54783mm">
+  <defs
+     id="defs5606" />
+  <metadata
+     id="metadata5609">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-41.860872,-16.891203)"
+     id="layer1">
+    <path
+       id="path3684-5-9-2-9-8-1-37-7-9-0-0-5-9"
+       d="M 56.20994,66.092428 69.848669,66.085087 85.02051,16.906086 H 70.64047 Z"
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.21566837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3684-6-3-1-6-7-4-5-3-9-4-1-1-1-7"
+       d="m 65.479202,16.898645 -11.63607,37.1505 -11.98226,-37.1505 z"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.21566837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path3684-7-5-2-1-3-5-5-2-3-5-9-0-0-8"
+       d="m 75.067332,66.077546 13.615125,0.01618 15.313563,-49.202523 -14.592652,0.02352 z"
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.21566837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3684-5-6-7-8-6-0-4-6-9-9-6-1-3-5"
+       d="m 124.7301,66.10128 13.70959,-0.03097 14.96901,-49.16567 -14.4008,-1.83e-4 z"
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.21566837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3684-6-3-2-0-7-1-3-7-5-2-3-2-3-7-3"
+       d="m 133.98551,16.900456 -11.66947,37.204789 -11.98225,-37.1505 z"
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.21566837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

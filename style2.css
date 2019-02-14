@@ -352,3 +352,101 @@
     margin-top: 6em;
   }
 }
+
+.image-container-3 {
+  text-align: right;
+}
+
+.image-holder-3 {
+    background: center url(sudoku2.png) no-repeat;
+    background-size: cover;
+    border: black solid 1px;
+    height: 8em;
+    width: 8em;
+    display: inline-block;
+    margin: 1.2em;
+}
+
+@media (min-width: 768px) {
+  .image-container-3 {
+    position: relative;
+  }
+}
+
+@media (min-width: 992px) {
+  .image-container-3 {
+    width: 98%;
+    position: absolute;
+  }
+}
+
+@media (min-width: 1200px) {
+    .image-container-3 {
+    width: 90%;
+  }
+}
+
+@media print {
+  .image-container-3 {
+    width: 98%;
+    position: absolute;
+    margin: 60px 4px;
+    margin-bottom: 0px;
+    margin-top: 6em;
+  }
+}
+
+
+.image-container-4 {
+  text-align: right;
+}
+
+.image-holder-4 {
+  background: center url(zombies2.png) no-repeat;
+  background-size: cover;
+  border: black solid 1px;
+  height: 2.5em;
+  width: 11em;
+  display: inline-block;
+  margin: 1.2em;
+  background-position-y: bottom;
+}
+
+@media (min-width: 768px) {
+  .image-container-4 {
+    position: relative;
+  }
+  .image-holder-4 {
+    width: 11em;
+  }
+}
+
+@media (min-width: 992px) {
+  .image-container-4 {
+    width: 98%;
+    position: absolute;
+  }
+
+  .image-holder-4 {
+    width: 8em;
+  }
+}
+
+@media (min-width: 1200px) {
+  .image-container-4 {
+    width: 90%;
+  }
+  .image-holder-4 {
+    width: 11em;
+  }
+}
+
+@media print {
+  .image-container-4 {
+    width: 98%;
+    position: absolute;
+    margin: 60px 4px;
+    margin-bottom: 0px;
+    margin-top: 6em;
+  }
+}
