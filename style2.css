@@ -450,3 +450,16 @@
     margin-top: 6em;
   }
 }
+
+.logo-0 {
+  text-align: right;
+}
+
+.logo-0 {
+    background: center url(wv1a.svg) no-repeat;
+    background-size: cover;
+    height: 1em;
+    width: 2.5em;
+    display: inline-block;
+    margin: -0.1em 2em 0em 2em;
+}
