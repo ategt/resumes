@@ -463,3 +463,18 @@
     display: inline-block;
     margin: -0.1em 2em 0em 2em;
 }
+
+@media all {
+  .page-break { display: none; }
+}
+
+@media print {
+  .page-break { display: block; page-break-before: always; }
+}
+
+.header-space-border {
+  border: black solid 2px;
+  width: 100%;
+  padding: 1in;
+  margin: 1in;
+}
