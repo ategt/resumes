@@ -121,7 +121,7 @@
   color:rgb(0, 0, 0);
   display:contents;
   font-family:Raleway;
-  font-size:36.2px;
+  font-size:medium;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -147,15 +147,15 @@
   color:rgb(0, 0, 0);
   display:inline-block;
   font-family:Raleway;
-  font-size:30.1px;
+  font-size:medium;
   font-style:italic;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
   font-variant-ligatures:normal;
   font-variant-numeric:normal;
   font-weight:400;
-  height:33px;
-  line-height:33.11px;
+  height:unset;
+  line-height:unset;
   text-align:start;
   text-size-adjust:100%;
   white-space:normal;
@@ -172,7 +172,7 @@
   color:rgb(0, 0, 0);
   display:inline;
   font-family:Raleway;
-  font-size:19.2px;
+  font-size:medium;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -198,7 +198,7 @@
   color:rgb(0, 0, 0);
   display:inline;
   font-family:Raleway;
-  font-size:19.2px;
+  font-size:medium;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -222,7 +222,7 @@
   color:rgb(0, 0, 0);
   display:inline;
   font-family:Raleway;
-  font-size:19.2px;
+  font-size:medium;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -246,7 +246,7 @@
   color:rgb(0, 0, 0);
   display:inline;
   font-family:Raleway;
-  font-size:30.1px;
+  font-size:medium;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -254,7 +254,7 @@
   font-variant-numeric:normal;
   font-weight:400;
   height:auto;
-  line-height:33.11px;
+  line-height:unset;
   text-align:right;
   text-size-adjust:100%;
   white-space:normal;
