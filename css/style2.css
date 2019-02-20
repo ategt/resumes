@@ -41,21 +41,21 @@
   display: -webkit-box;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(github.png);
+  background-image: url(../img/github.png);
   background-size: contain;
   position: absolute;
 }
 
 .sm-icon-github {
-  background-image: url(github.png);
+  background-image: url(../img/github.png);
 }
 
 .sm-icon-mail {
-  background-image: url(mail-id-icon-47236.png);
+  background-image: url(../img/mail-id-icon-47236.png);
 }
 
 .sm-icon-phone {
-  background-image: url(phone-512.png);
+  background-image: url(../img/phone-512.png);
 }
 
 .sm-info-text {
@@ -234,7 +234,7 @@
 }
 
 .name-piece {
-  background: center url(technology-792181_960_720.jpg);
+  background: center url(../img/technology-792181_960_720.jpg);
   background-blend-mode: lighten;
   background-color: darkgray;
   border: black solid 2px;
@@ -255,7 +255,7 @@
 }
 
 .image-holder-0 {
-  background: center url(sample-map.jpg);
+  background: center url(../img/sample-map.jpg);
   background-size: cover;
   border: black solid 1px;
   margin: 60px 4px;
@@ -264,7 +264,7 @@
 }
 
 .image-holder-1 {
-  background: center url(sample-map.jpg);
+  background: center url(../img/sample-map.jpg);
   background-size: cover;
   border: black solid 1px;
   height: 191px;
@@ -315,7 +315,7 @@
 }
 
 .image-holder-2 {
-    background: center url(planes-over-gulf.png) no-repeat;
+    background: center url(../img/planes-over-gulf.png) no-repeat;
     background-size: cover;
     border: black solid 1px;
     height: 4em;
@@ -358,7 +358,7 @@
 }
 
 .image-holder-3 {
-    background: center url(sudoku2.png) no-repeat;
+    background: center url(../img/sudoku2.png) no-repeat;
     background-size: cover;
     border: black solid 1px;
     height: 8em;
@@ -402,7 +402,7 @@
 }
 
 .image-holder-4 {
-  background: center url(zombies2.png) no-repeat;
+  background: center url(../img/zombies2.png) no-repeat;
   background-size: cover;
   border: black solid 1px;
   height: 2.5em;
@@ -456,7 +456,7 @@
 }
 
 .logo-0 {
-    background: center url(wv1a.svg) no-repeat;
+    background: center url(../img/wv1a.svg) no-repeat;
     background-size: cover;
     height: 1em;
     width: 2.5em;
