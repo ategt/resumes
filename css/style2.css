@@ -497,7 +497,7 @@ dl, ol, ul {
 
 @media print {
   .image-container-4 {
-    width: 98%;
+    width: 100%;
     position: absolute;
   }
 }
