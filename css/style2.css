@@ -1,3 +1,13 @@
+li {
+  font-family:Raleway;
+  font-size: medium;
+}
+
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
 .my-name {
   box-sizing:border-box;
   color:rgb(0, 0, 0);
@@ -141,14 +151,14 @@
 }
 
 .employer-title {
-  margin: 10px 10px 0px 10px;
+  margin: 5px 10px 5px 10px;
   border-collapse:collapse;
   box-sizing:border-box;
   color:rgb(0, 0, 0);
   display:inline-block;
   font-family:Raleway;
-  font-size:medium;
-  font-style:italic;
+  font-size:larger;
+  font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
   font-variant-ligatures:normal;
@@ -166,13 +176,13 @@
 }
 
 .location {
-  padding: 5px 15px 5px 40px;
+  margin: 5px 10px 5px 10px;
   border-collapse:collapse;
   box-sizing:border-box;
   color:rgb(0, 0, 0);
-  display:inline;
+  display:inline-block;
   font-family:Raleway;
-  font-size:medium;
+  font-size:larger;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -196,9 +206,9 @@
   border-collapse:collapse;
   box-sizing:border-box;
   color:rgb(0, 0, 0);
-  display:inline;
+  display:inline-block;
   font-family:Raleway;
-  font-size:medium;
+  font-size:larger;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -217,12 +227,13 @@
 }
 
 .project-location {
+  margin: 5px 10px 5px 10px;
   border-collapse:collapse;
   box-sizing:border-box;
   color:rgb(0, 0, 0);
-  display:inline;
+  display:inline-block;
   font-family:Raleway;
-  font-size:medium;
+  font-size:larger;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -246,7 +257,7 @@
   color:rgb(0, 0, 0);
   display:inline;
   font-family:Raleway;
-  font-size:medium;
+  font-size:x-large;
   font-style:normal;
   font-variant-caps:normal;
   font-variant-east-asian:normal;
@@ -329,11 +340,10 @@
 
 @media (min-width: 992px) {
   .image-container-1 {
-    width: 98%;
+    width: 95%;
     position: absolute;
-    margin: 60px 4px;
     margin-bottom: 0px;
-    margin-top: 6em;
+    margin-top: 5.5em;
   }
 }
 
@@ -345,9 +355,8 @@
 
 @media print {
   .image-container-1 {
-    width: 98%;
+    width: 95%;
     position: absolute;
-    margin: 60px 4px;
     margin-bottom: 0px;
     margin-top: 6em;
   }
@@ -410,10 +419,10 @@
     background: center url(../img/sudoku2.png) no-repeat;
     background-size: cover;
     border: black solid 1px;
-    height: 8em;
-    width: 8em;
+    height: 6em;
+    width: 6em;
     display: inline-block;
-    margin: 1.2em;
+    margin: 0.8em;
 }
 
 @media (min-width: 768px) {
@@ -439,12 +448,8 @@
   .image-container-3 {
     width: 98%;
     position: absolute;
-    margin: 60px 4px;
-    margin-bottom: 0px;
-    margin-top: 6em;
   }
 }
-
 
 .image-container-4 {
   text-align: right;
@@ -494,23 +499,17 @@
   .image-container-4 {
     width: 98%;
     position: absolute;
-    margin: 60px 4px;
-    margin-bottom: 0px;
-    margin-top: 6em;
   }
 }
 
 .logo-0 {
   text-align: right;
-}
-
-.logo-0 {
-    background: center url(../img/wv1a.svg) no-repeat;
-    background-size: cover;
-    height: 1em;
-    width: 2.5em;
-    display: inline-block;
-    margin: -0.1em 2em 0em 2em;
+  background: center url(../img/wv1a.svg) no-repeat;
+  background-size: cover;
+  height: 0.9em;
+  width: 2.5em;
+  display: inline-block;
+  margin: -0.1em 2em 0em 2em;
 }
 
 @media all {
